@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/6f796623-ece2-4bbe-8aac-d39257f80d31)
+
 # AD-Roadmap-Obsidian
 Porting the well-known AD pentest roadmap to Obsidian's notes. Many thanks to the roadmap developer
 ---
